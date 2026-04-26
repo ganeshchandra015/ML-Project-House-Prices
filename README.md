@@ -2,7 +2,7 @@
 
 This project is your next structured machine learning project after Titanic.
 
-It is designed to teach:
+It is designed to implement:
 
 1. regression instead of classification
 2. target skew and log transformation
@@ -66,7 +66,7 @@ ML-Project-House-Prices/
 From the project root:
 
 ```powershell
-python -m venv venv
+py -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 ```
