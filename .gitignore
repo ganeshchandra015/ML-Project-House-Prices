@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.joblib
+models/*
+results/*
+!models/.gitkeep
+!results/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+data/raw/*.zip
+data/raw/*.7z
+data/raw/*.gz

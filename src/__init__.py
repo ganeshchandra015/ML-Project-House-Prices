@@ -1,0 +1,1 @@
+"""House Prices project source package."""
